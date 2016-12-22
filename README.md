@@ -40,6 +40,6 @@ Writing from /mnt/aaaatemp_openwrt/openwrt-15.05-ramips-rt305x-a5-v11-squashfs-s
 reboot
 ```
 
-I can now put a new sysupgrade image named `firmware.bin` to the root directory of a FAT formatted USB stick and boot the router with the reset button pressed. It should flash the firmware image during which it binks the blue LED, or, if it cannot, open a TFTP server.
+I can now put a new sysupgrade image named `firmware.bin` to the root directory of a FAT formatted USB stick and boot the router with the reset button pressed. It should flash the firmware image during which time it blinks the blue LED, or, if it cannot, open a TFTP server.
 
 In OpenWrt I seem to have an empty MAC address... not sure if this is related to the bootloader.
