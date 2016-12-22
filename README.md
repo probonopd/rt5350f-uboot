@@ -1,6 +1,8 @@
 # rt5350f-uboot
 
-Backup of wertwert4pda/rt5350f-uboot. I do not have the source code.
+This is uboot for the A5 V11 Router. This is merely a Backup of wertwert4pda/rt5350f-uboot which disappeared on Dec 22, 2016. I do not have the source code.
+
+More information at http://tech.scargill.net/a5-v11-router/
 
 ```
 # 32 MB flash router with "Qualcomm" firmware GUI
