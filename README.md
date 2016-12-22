@@ -17,6 +17,9 @@ Password: admin
 BusyBox v1.12.1 (2012-08-27 10:10:44 CST) built-in shell (ash)
 Enter 'help' for a list of built-in commands.
 
+# Mount the USB thumbdrive on which the firmware resides
+# mount /dev/sda1 /mnt
+
 # cat /proc/meminfo 
 MemTotal:        28616 kB
 MemFree:          5052 kB
