@@ -41,3 +41,5 @@ reboot
 ```
 
 I can now put a new sysupgrade image named `firmware.bin` to the root directory of a FAT formatted USB stick and boot the router with the reset button pressed. It should flash the firmware image, or, if it cannot, open a TFTP server.
+
+In OpenWrt I seem to have an empty MAC address... not sure if this is related to the bootloader.
