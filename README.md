@@ -34,7 +34,7 @@ Writing from /mnt/uboot_usb_256_03.img to Bootloader ...  [w]
 
 # mtd_write write /mnt/openwrt-15.05-ramips-rt305x-a5-v11-squashfs-sysupgrade.bin Kernel
 Unlocking Kernel ...
-Writing from /mnt/aaaatemp_openwrt/openwrt-15.05-ramips-rt305x-a5-v11-squashfs-sysupgrade.bin to Kernel ...  [w]
+Writing from /mnt/openwrt-15.05-ramips-rt305x-a5-v11-squashfs-sysupgrade.bin to Kernel ...  [w]
 #
 
 reboot
